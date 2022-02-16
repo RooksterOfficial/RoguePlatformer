@@ -6,6 +6,7 @@
     {"id":{"name":"Obj_Spikes","path":"objects/Obj_Spikes/Obj_Spikes.yy",},"order":2,},
     {"id":{"name":"Spr_Rogue","path":"sprites/Spr_Rogue/Spr_Rogue.yy",},"order":0,},
     {"id":{"name":"Spr_RogueJump","path":"sprites/Spr_RogueJump/Spr_RogueJump.yy",},"order":4,},
+    {"id":{"name":"Spr_Temp","path":"sprites/Spr_Temp/Spr_Temp.yy",},"order":5,},
     {"id":{"name":"Spr_Empty","path":"sprites/Spr_Empty/Spr_Empty.yy",},"order":3,},
     {"id":{"name":"Spr_Floor01","path":"sprites/Spr_Floor01/Spr_Floor01.yy",},"order":1,},
     {"id":{"name":"Obj_NextLevel","path":"objects/Obj_NextLevel/Obj_NextLevel.yy",},"order":3,},
